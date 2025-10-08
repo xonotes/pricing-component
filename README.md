@@ -1,4 +1,4 @@
-![Pricing Component With Toggle](https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Pricing Component With Toggle](https://raw.githubusercontent.com/xonotes/pricing-component/refs/heads/main/images/project-preview.png)
 
 <h1 align="center">Pricing Component With Toggle</h1>
 
@@ -47,3 +47,4 @@ Another quick project to practice some JavaScript and CSS. Nothing new that I le
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-IUaYc_2FA). It definitely helps to find new ways to code and find easier solutions!
+
